@@ -16,7 +16,7 @@ func main() {
 	go func(ch chan string) {
 		for {
 			time.Sleep(time.Second * (time.Duration(3)))
-			fmt.Printf(">>> ch: %v \n", ch)
+			fmt.Printf(">>> len(ch): %d \n", len(ch))
 		}
 	}(ch)
 
