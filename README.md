@@ -1,2 +1,2 @@
-# go-features
-Concise demos for Go language
+# gofeat
+Concise demos of Go features
