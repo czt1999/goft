@@ -1,2 +1,2 @@
-# go-features
-Concise demos for Go language
+# Goft
+This repository gives a collection of concise demos of Go features, expected to be helpful for coders getting familiar with the language.
